@@ -18,10 +18,6 @@ Given that Bitcoin wallet addresses are created randomly, it is possible for two
 
 When the address generator is configured to generate addresses at random, statistical analysis may be used to determine the possibility that two distinct wallets would create the same address. This is possible when the address generator is configured to generate addresses at random. This is theoretically conceivable if the generator is configured to produce random addresses. Please read the following article to enhance your mathematics knowledge.Therefore, the possibility of an address collision, often known as your wallet randomly producing the same address as another wallet, is 1 in 6.35.10^24, which is very low. This indicates that the probability of address information inconsistency is rather low. However, the reason for such a large number is unknown.
 
-# Like This Project? Give It A Star
-
-[![](https://img.shields.io/github/stars/donspablo/bitscanner.svg)](https://github.com/donspablo/bitscanner)
-
 # Dependencies
 
 <a href="https://www.python.org/downloads/">Python 3.6</a> or higher
