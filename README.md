@@ -78,6 +78,6 @@ However, through `multiprocessing.Process()` a concurrent process is created for
 
 
 
-# Database FAQ
+# Database
 
 In order to determine the balance of Bitcoin addresses that have already been created, it is necessary to make use of an offline database. 
