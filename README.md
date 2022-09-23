@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/6468571/191927054-33eedde7-ae51-464e-a3ce-e7acc804e908.png)
+![image](https://user-images.githubusercontent.com/6468571/191927625-55edf5b9-267d-4c41-ae18-ac718ee25d3b.png)
 
 <p align="center">🦄 PLEASE REMEMBER TO SMASH THE ⭐🔨 BUTTON AND <a href="https://github.com/sponsors/donspablo/dashboard">SUPPORT</a> 🌈 THANK YOU.</sub></sup></p>
 <p align="center">📢<sub><sup> <i><b> YOUR SUPPORT IS GREATLY APPRECIATED / </b> <a href="https://www.patreon.com/donPabloNow">PATREON.COM/DONPABLONOW</a> / <b>BTC</b>  3HVNOVVMLHVEWQLSCCQX9DUA26P5PRCTNQ / <b>ETH</b> 0X3D288C7A673501294C9289C6FC42480A2EA61417 </i> </p>
